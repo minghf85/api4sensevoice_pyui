@@ -1,0 +1,2 @@
+# api4sensevoice_pyui
+在项目api4sensevoice基础上的python界面和命令行运行的语音识别
