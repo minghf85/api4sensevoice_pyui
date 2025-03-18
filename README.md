@@ -1,5 +1,5 @@
 # api4sensevoice_pyui
-在项目api4sensevoice基础上的python界面和命令行运行的语音识别  
+在项目[api4sensevoice](https://github.com/0x5446/api4sensevoice)基础上的python界面和命令行运行的语音识别  
 在python=3.10.11环境下测试能使用，其余环境未测试
 ## 使用
 
