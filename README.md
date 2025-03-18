@@ -22,7 +22,7 @@
   ]
   ```  
 - STT_qt.py是基于pyqt6的UI界面，STT_tk.py是基于tkinter的UI界面  
-  将这两个文件放置到官方sensevoice文件夹下  
+  将这两个文件放置到官方sensevoice文件夹或者api4sensevoice项目(未测试)下  
   安装依赖  
   ```bash
   pip install pyqt6,pyaudio,numpy,loguru,soundfile
