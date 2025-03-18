@@ -4,8 +4,8 @@
 ## 使用
 
 - clisensevoice.py是基于api4sensevoice的server_wss.py服务运行的python终端STT
-  将server_wss.py替换原来的server_wss.py或者改个名字，然后运行这个server_wss.py 
-  创建一个新环境  
+  将server_wss.py替换原来的server_wss.py或者改个名字，然后运行这个server_wss.py   
+  可以选择创建一个新环境也可以不创建，仍然在api4sensevoice项目下运行  
   将clisensevoice.py放置到该环境下  
   安装依赖  
   ```bash
@@ -13,9 +13,9 @@
   ```
   运行  
   ```bash
-  python clisensevoice.py
+  python clisensevoice.py #和server_wss.py在两个终端运行
   ```
-  若要修改ip和端口号请自行查看，说话人的添加方式相同。  
+  若要修改ip和端口号请自行查看，说话人的添加方式相同  
   ``` python
   reg_spks_files = [
     "speaker/久倾standard.wav"
